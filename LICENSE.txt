@@ -1,0 +1,9 @@
+MIT License (MIT)
+
+Copyright (c) 2014-2023 Eternesus
+
+To anyone who receives a copy of this software, without restriction on use of this software; including using, copying, modifying, combining, publishing, distributing, sublicensing and/or selling copies of the software in your projects; The right to operate with the software is granted free of charge. However, it is subject to the following conditions:
+
+1. If you wish to sell a project (or projects) in which this software is used for commercial purposes, you may modify the content or features of these projects, but you may not separately sell the original source codes or derivatives of this software.
+
+THE SOFTWARE IS ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED; IT IS PROVIDED WITHOUT WARRANTY OF ANY KIND, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. APPROPRIATELY, THE AUTHORS OR COPYRIGHT OWNERS CANNOT BE AWARE OF ANY JURISDICTIONS, INCLUDING CONTRACTUAL, DEFEAT, NEGLIGENCE, OR OTHER LEGAL REASONS, INDIRECT, INCIDENTAL, INCIDENTAL, JURISDICTIONS, INCLUDING JURISDICTIONS, JURISDICTIONS, THEY ARE NOT RESPONSIBLE.
