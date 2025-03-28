@@ -1,4 +1,5 @@
 # Custom GUI Framework
+![GUI](https://github.com/user-attachments/assets/590f6919-4ecf-4238-9c5b-946acd5f46e7)
 
 ## 📌 Project Description                                                                             
 This is a customizable GUI framework designed for creating intuitive, stylish, and responsive interfaces for various applications. It provides a highly flexible menu structure, featuring multiple sections and tabs that allow users to organize their settings, options, and configurations in an easily navigable way.
@@ -19,10 +20,10 @@ This framework can be adapted and used for a variety of applications, such as co
 - **Cross-application Usability** – Tracks performance with detailed insights.  
 
 ## How to Use
-1.Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-2.Include the framework in your project and set up the necessary dependencies (ImGui, DirectX, etc.).
+2. Include the framework in your project and set up the necessary dependencies (ImGui, DirectX, etc.).
 
-3.Customize the menu and options according to your project needs.
+3. Customize the menu and options according to your project needs.
 
-4.Render and interact with the menu in your application.
+4. Render and interact with the menu in your application.
