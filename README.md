@@ -26,14 +26,3 @@ This framework can be adapted and used for a variety of applications, such as co
 3.Customize the menu and options according to your project needs.
 
 4.Render and interact with the menu in your application.
-
-# 🔧 Tools Used
-- **Languages**: Visual Basic / C#
-- **Frameworks**: .NET Framework / Windows Forms
-
-## 📌 Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/vkosteski/Custom-GUI-Framework.git
-
-2. Follow the README to integrate the framework into your project.
