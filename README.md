@@ -1,5 +1,3 @@
-# Custom GUI Framework
-![GUI](https://github.com/user-attachments/assets/590f6919-4ecf-4238-9c5b-946acd5f46e7)
 
 ## Project Description                                                                             
 This is a customizable GUI framework designed for creating intuitive, stylish, and responsive interfaces for various applications. It provides a highly flexible menu structure, featuring multiple sections and tabs that allow users to organize their settings, options, and configurations in an easily navigable way.
