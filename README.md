@@ -10,12 +10,6 @@ The framework is built using ImGui, a widely used graphical user interface libra
 
 This framework can be adapted and used for a variety of applications, such as configuration menus for games, tools, or other software projects. It offers an easy-to-integrate interface system for developers looking to create sleek user interfaces for their own projects.
 
-## Features  
-- **Customizable UI** – Supports individual and team sign-ups.  
-- **Real-time Animations** – Create and manage multiple sporting and academic events.  
-- **Rich Input Options** – Calculates points based on event rankings.  
-- **Modular Design** – Updates rankings in real time.  
-- **Cross-application Usability** – Tracks performance with detailed insights.  
 
 ## How to Use
 1. Clone the repository to your local machine.
